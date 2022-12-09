@@ -4,5 +4,5 @@ layout: home
 ---
 
 - [Rails 指南](/rails)
-- [Bulma]（/bulma）
+- [Bulma](/bulma)
 - [Jekyll](/jekyll)
