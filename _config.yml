@@ -3,6 +3,3 @@ description: Rubyist 维护的 Ruby 开发相关软件的中文文档集合
 theme: just-the-docs
 
 url: https://docs.rubyist.cn
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
